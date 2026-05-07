@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Stylised detail study of Bredon Barn</title>
+  <desc id="desc">An original vector illustration focusing on stonework, roofline, and a distinctive chimney-like feature.</desc>
+  <rect width="1200" height="800" fill="#f9f3ea"/>
+  <rect x="120" y="470" width="960" height="210" rx="18" fill="#dbc2a0"/>
+  <path d="M120 470L360 220H860L1080 470Z" fill="#5f4c41"/>
+  <path d="M360 220H860" stroke="#e0cfba" stroke-width="12" stroke-linecap="round"/>
+  <rect x="184" y="528" width="164" height="96" fill="#b09174"/>
+  <rect x="376" y="528" width="164" height="96" fill="#b09174"/>
+  <rect x="568" y="528" width="164" height="96" fill="#b09174"/>
+  <rect x="760" y="528" width="164" height="96" fill="#b09174"/>
+  <path d="M640 216H714V312H750L784 370H570L604 312H640Z" fill="#97806b"/>
+  <path d="M980 174C1010 198 1026 230 1026 270C1026 344 960 404 878 404C830 404 786 384 756 350" fill="none" stroke="#8fa080" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="1026" cy="174" r="18" fill="#8fa080"/>
+</svg>

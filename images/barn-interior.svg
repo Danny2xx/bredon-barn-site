@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Stylised interior of Bredon Barn</title>
+  <desc id="desc">An original vector illustration showing repeating interior arches and a central aisle inside a barn.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8efe2"/>
+      <stop offset="100%" stop-color="#ead9c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M200 740L400 120H800L1000 740Z" fill="#6b5d52"/>
+  <path d="M260 740L430 180H770L940 740Z" fill="#f6efe6"/>
+  <path d="M560 740V180H640V740Z" fill="#b89e82"/>
+  <path d="M140 740H1060" stroke="#9a826a" stroke-width="20" stroke-linecap="round"/>
+  <path d="M272 740C272 616 328 504 432 428" fill="none" stroke="#9a826a" stroke-width="18"/>
+  <path d="M928 740C928 616 872 504 768 428" fill="none" stroke="#9a826a" stroke-width="18"/>
+  <path d="M370 740C370 636 412 546 500 484" fill="none" stroke="#a88d73" stroke-width="14"/>
+  <path d="M830 740C830 636 788 546 700 484" fill="none" stroke="#a88d73" stroke-width="14"/>
+  <path d="M472 740C472 650 506 578 560 540" fill="none" stroke="#b79f81" stroke-width="12"/>
+  <path d="M728 740C728 650 694 578 640 540" fill="none" stroke="#b79f81" stroke-width="12"/>
+  <rect x="540" y="180" width="120" height="32" fill="#b89e82"/>
+  <circle cx="600" cy="258" r="16" fill="#d0baa0"/>
+</svg>

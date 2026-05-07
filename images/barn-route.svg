@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Stylised route illustration for Bredon Barn</title>
+  <desc id="desc">An original vector illustration showing a winding route across fields toward a marker placed near a barn silhouette.</desc>
+  <rect width="1200" height="800" fill="#f7f0e5"/>
+  <path d="M0 560C160 506 304 492 430 536C574 586 730 604 900 552C1012 518 1114 520 1200 548V800H0Z" fill="#9eae8e"/>
+  <path d="M0 626C184 584 304 578 426 614C556 652 704 664 850 620C980 580 1092 578 1200 606V800H0Z" fill="#7f906f"/>
+  <path d="M198 740C286 610 392 558 510 520C592 494 684 474 776 404C854 344 930 256 1032 152" fill="none" stroke="#f6f0e8" stroke-width="28" stroke-linecap="round"/>
+  <path d="M198 740C286 610 392 558 510 520C592 494 684 474 776 404C854 344 930 256 1032 152" fill="none" stroke="#b9794b" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 20"/>
+  <path d="M1018 124C1066 124 1104 162 1104 210C1104 278 1018 374 1018 374C1018 374 932 278 932 210C932 162 970 124 1018 124Z" fill="#b9794b"/>
+  <circle cx="1018" cy="210" r="30" fill="#fff6ee"/>
+  <path d="M846 404H1040V468H846Z" fill="#d8c0a0"/>
+  <path d="M846 404L896 346H990L1040 404Z" fill="#5f4c41"/>
+</svg>

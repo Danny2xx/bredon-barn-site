@@ -1,0 +1,2 @@
+Add your final HTML and CSS validator PDF reports to this folder before submission.
+The checklist asks for separate validation PDFs to be included inside a validation folder.
